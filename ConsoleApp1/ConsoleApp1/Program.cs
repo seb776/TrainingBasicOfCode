@@ -104,7 +104,7 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            miniGame();
+            //miniGame();
             //var currentMaterial = GetMaterial(42);
             //currentMaterial.Opacity
 
@@ -125,7 +125,7 @@ namespace ConsoleApp1
             //int.TryParse(typed, out typedNumber);
 
 
-
+            Class1.CorrectionMiniJeu();
 
 
             Console.ReadKey();
